@@ -6,7 +6,7 @@ My expertise is collaborative data science for international biological and huma
 
 [**at the University of Michigan**](https://sites.lsa.umich.edu/capuchin/)
 
--   I oversaw wild primate endocrinology research in Costa Rica
+-   I oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)
 -   Curated and maintained longitudinal biological dataset with thousands of observations
 -   Trained graduate students and field technicians in molecular laboratory methods and data analysis
 
