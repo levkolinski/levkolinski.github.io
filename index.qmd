@@ -1,0 +1,11 @@
+---
+title: "Lev Kolinski"
+---
+
+## About me
+
+I'm Lev. I’m an evolutionary biologist and human ecologist fascinated with how evolutionary processes influence human well-being in changing environments. In my work, I leverage methods from infectious disease ecology, network science, computer science, and anthropology to understand social and biological determinants of health.
+
+As a Ph.D. candidate in Evolutionary Anthropology at Duke University, I investigate the dual burden of chronic and infectious disease in rural Madagascar. Some of my current research projects include predicting zoonotic disease exposure with network modeling; disentangling energetic and immunoregulatory pathways of hookworm infection and cardiovascular disease risk; investigating the adaptive value of disgust and pathogen avoidance behaviors. I advance this work through international collaborations involving laboratory, field, and computational methods.
+
+I am passionate about data sovereignty, responsible AI, and collaborative data science. Prior to Duke, I led data curation and biological research as a scientist for a U.S. Department of Defense-funded initiative in Liberia in West Africa. Currently, in my role as data scientist for an NSF Ecology and Evolution of Infectious Diseases grant, I manage all data and coding projects for our international team across the United States, Singapore, Réunion, and Madagascar.
