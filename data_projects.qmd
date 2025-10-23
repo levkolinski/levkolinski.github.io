@@ -25,7 +25,7 @@ My expertise is collaborative data science for international biological and huma
 -   Curated and maintained longitudinal biological dataset with thousands of observations
 -   Trained graduate students and field technicians in molecular laboratory methods and data analysis
 
-## Some tools that have been particularly impactful to the teams I've worked with:
+## Some tools that have been particularly impactful for the teams I've worked with:
 
 #### Data validation dashboards
 
