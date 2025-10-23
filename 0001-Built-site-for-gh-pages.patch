@@ -1,0 +1,110 @@
+From 41c9b26b64c9eb6a0c1f6fb3f4cbc0efab5704a2 Mon Sep 17 00:00:00 2001
+From: Lev Kolinski <lev.kolinski@gmail.com>
+Date: Thu, 23 Oct 2025 14:34:15 -0400
+Subject: [PATCH] Built site for gh-pages
+
+---
+ .nojekyll          |  2 +-
+ data_projects.html | 14 +++++++-------
+ robots.txt         |  1 +
+ search.json        |  4 ++--
+ sitemap.xml        | 15 +++++++++++++++
+ 5 files changed, 26 insertions(+), 10 deletions(-)
+ create mode 100644 robots.txt
+ create mode 100644 sitemap.xml
+
+diff --git a/.nojekyll b/.nojekyll
+index 71f7bd6..3b21a31 100644
+--- a/.nojekyll
++++ b/.nojekyll
+@@ -1 +1 @@
+-3e155825
+\ No newline at end of file
++354f51a6
+\ No newline at end of file
+diff --git a/data_projects.html b/data_projects.html
+index 7d7df02..2b567b7 100644
+--- a/data_projects.html
++++ b/data_projects.html
+@@ -135,11 +135,10 @@ ul.task-list li input[type="checkbox"] {
+ <section id="professional-experience" class="level2">
+ <h2 data-anchor-id="professional-experience">Professional Experience</h2>
+ <p>My expertise is collaborative data science for international biological and human health research. I have led data curation and coding projects in my roles:</p>
+-<p><a href="https://sites.lsa.umich.edu/capuchin/"><strong>at the University of Michigan</strong></a></p>
++<p><a href="https://sites.duke.edu/bassmadagascar/output-and-outcomes/market-integration-land-use-and-pathogen-transmission-in-rural-madagascar/"><strong>at Duke University</strong></a>:</p>
+ <ul>
+-<li>I oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)</li>
+-<li>Curated and maintained longitudinal biological dataset with thousands of observations</li>
+-<li>Trained graduate students and field technicians in molecular laboratory methods and data analysis</li>
++<li>I am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, “Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar”</li>
++<li>Oversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar</li>
+ </ul>
+ <p><a href="https://www.ecohealthalliance.org/program/whats-the-fever"><strong>at EcoHealth Alliance</strong></a></p>
+ <ul>
+@@ -148,10 +147,11 @@ ul.task-list li input[type="checkbox"] {
+ <li>Established automated data management systems to validate and curate survey and laboratory datasets</li>
+ <li>Trained Liberian researchers on data visualization</li>
+ </ul>
+-<p><a href="https://sites.duke.edu/bassmadagascar/output-and-outcomes/market-integration-land-use-and-pathogen-transmission-in-rural-madagascar/"><strong>at Duke University</strong></a>:</p>
++<p><a href="https://sites.lsa.umich.edu/capuchin/"><strong>at the University of Michigan</strong></a></p>
+ <ul>
+-<li>I am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, “Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar”</li>
+-<li>Oversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar</li>
++<li>I oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)</li>
++<li>Curated and maintained longitudinal biological dataset with thousands of observations</li>
++<li>Trained graduate students and field technicians in molecular laboratory methods and data analysis</li>
+ </ul>
+ </section>
+ <section id="some-tools-that-have-been-particularly-impactful-to-the-teams-ive-worked-with" class="level2">
+diff --git a/robots.txt b/robots.txt
+new file mode 100644
+index 0000000..c3514fe
+--- /dev/null
++++ b/robots.txt
+@@ -0,0 +1 @@
++Sitemap: https://levkolinski.github.io/sitemap.xml
+diff --git a/search.json b/search.json
+index e01dbe3..8f2bc3a 100644
+--- a/search.json
++++ b/search.json
+@@ -39,14 +39,14 @@
+     "href": "data_projects.html",
+     "title": "Lev Kolinski",
+     "section": "",
+-    "text": "My expertise is collaborative data science for international biological and human health research. I have led data curation and coding projects in my roles:\nat the University of Michigan\n\nI oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)\nCurated and maintained longitudinal biological dataset with thousands of observations\nTrained graduate students and field technicians in molecular laboratory methods and data analysis\n\nat EcoHealth Alliance\n\nI worked as a researcher and project manager for a U.S. Department of Defense, “Reducing the threat of acute-febrile illness causing pathogens in Liberia”\nOversaw human and animal biological research across Liberia\nEstablished automated data management systems to validate and curate survey and laboratory datasets\nTrained Liberian researchers on data visualization\n\nat Duke University:\n\nI am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, “Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar”\nOversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar"
++    "text": "My expertise is collaborative data science for international biological and human health research. I have led data curation and coding projects in my roles:\nat Duke University:\n\nI am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, “Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar”\nOversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar\n\nat EcoHealth Alliance\n\nI worked as a researcher and project manager for a U.S. Department of Defense, “Reducing the threat of acute-febrile illness causing pathogens in Liberia”\nOversaw human and animal biological research across Liberia\nEstablished automated data management systems to validate and curate survey and laboratory datasets\nTrained Liberian researchers on data visualization\n\nat the University of Michigan\n\nI oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)\nCurated and maintained longitudinal biological dataset with thousands of observations\nTrained graduate students and field technicians in molecular laboratory methods and data analysis"
+   },
+   {
+     "objectID": "data_projects.html#professional-experience",
+     "href": "data_projects.html#professional-experience",
+     "title": "Lev Kolinski",
+     "section": "",
+-    "text": "My expertise is collaborative data science for international biological and human health research. I have led data curation and coding projects in my roles:\nat the University of Michigan\n\nI oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)\nCurated and maintained longitudinal biological dataset with thousands of observations\nTrained graduate students and field technicians in molecular laboratory methods and data analysis\n\nat EcoHealth Alliance\n\nI worked as a researcher and project manager for a U.S. Department of Defense, “Reducing the threat of acute-febrile illness causing pathogens in Liberia”\nOversaw human and animal biological research across Liberia\nEstablished automated data management systems to validate and curate survey and laboratory datasets\nTrained Liberian researchers on data visualization\n\nat Duke University:\n\nI am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, “Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar”\nOversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar"
++    "text": "My expertise is collaborative data science for international biological and human health research. I have led data curation and coding projects in my roles:\nat Duke University:\n\nI am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, “Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar”\nOversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar\n\nat EcoHealth Alliance\n\nI worked as a researcher and project manager for a U.S. Department of Defense, “Reducing the threat of acute-febrile illness causing pathogens in Liberia”\nOversaw human and animal biological research across Liberia\nEstablished automated data management systems to validate and curate survey and laboratory datasets\nTrained Liberian researchers on data visualization\n\nat the University of Michigan\n\nI oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)\nCurated and maintained longitudinal biological dataset with thousands of observations\nTrained graduate students and field technicians in molecular laboratory methods and data analysis"
+   },
+   {
+     "objectID": "data_projects.html#some-tools-that-have-been-particularly-impactful-to-the-teams-ive-worked-with",
+diff --git a/sitemap.xml b/sitemap.xml
+new file mode 100644
+index 0000000..0c99d35
+--- /dev/null
++++ b/sitemap.xml
+@@ -0,0 +1,15 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
++  <url>
++    <loc>https://levkolinski.github.io/index.html</loc>
++    <lastmod>2025-10-23T18:34:15.421Z</lastmod>
++  </url>
++  <url>
++    <loc>https://levkolinski.github.io/Research.html</loc>
++    <lastmod>2025-10-23T18:34:14.856Z</lastmod>
++  </url>
++  <url>
++    <loc>https://levkolinski.github.io/data_projects.html</loc>
++    <lastmod>2025-10-23T18:34:15.192Z</lastmod>
++  </url>
++</urlset>
+-- 
+2.39.3 (Apple Git-145)
+

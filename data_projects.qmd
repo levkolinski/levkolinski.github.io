@@ -6,11 +6,10 @@ title: "Lev Kolinski"
 
 My expertise is collaborative data science for international biological and human health research. I have led data curation and coding projects in my roles:
 
-[**at the University of Michigan**](https://sites.lsa.umich.edu/capuchin/)
+[**at Duke University**](https://sites.duke.edu/bassmadagascar/output-and-outcomes/market-integration-land-use-and-pathogen-transmission-in-rural-madagascar/):
 
--   I oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)
--   Curated and maintained longitudinal biological dataset with thousands of observations
--   Trained graduate students and field technicians in molecular laboratory methods and data analysis
+-   I am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, "Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar"
+-   Oversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar
 
 [**at EcoHealth Alliance**](https://www.ecohealthalliance.org/program/whats-the-fever)
 
@@ -19,10 +18,12 @@ My expertise is collaborative data science for international biological and huma
 -   Established automated data management systems to validate and curate survey and laboratory datasets
 -   Trained Liberian researchers on data visualization
 
-[**at Duke University**](https://sites.duke.edu/bassmadagascar/output-and-outcomes/market-integration-land-use-and-pathogen-transmission-in-rural-madagascar/):
 
--   I am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, "Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar"
--   Oversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar
+[**at the University of Michigan**](https://sites.lsa.umich.edu/capuchin/)
+
+-   I oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)
+-   Curated and maintained longitudinal biological dataset with thousands of observations
+-   Trained graduate students and field technicians in molecular laboratory methods and data analysis
 
 ## Some tools that have been particularly impactful to the teams I've worked with:
 
@@ -64,9 +65,9 @@ To facilitate team coding projects for scientists of varying comfort levels with
 
 #### Naming Network Automation
 
-In social network analysis, researchers commonly deploy name-generating questions to develop an individual's social network. To keep track of unique names, researchers often ask participants to provide phone numbers or email addresses of the people they name.In rural, remote contexts, though, individuals often do not have phones or internet, and they may provide names or nicknames with inconsistent spellings. Using methods from statistics and computer science, I created an automated tool to assign edges between individuals named in a social network. This tool:
+In social network analysis, researchers commonly deploy name-generating questions to develop an individual's social network. To keep track of unique names, researchers often ask participants to provide phone numbers or email addresses of the people they name. In rural, remote contexts, though, individuals often do not have phones or internet, and they may provide names or nicknames with inconsistent spellings. Using methods from statistics and computer science, I created an automated tool to assign edges between individuals named in a social network. This tool:
 
--   Automatically cleans and standardized name data provided in name-generating questions
+-   Automatically cleans and standardizes name data provided in name-generating questions
 -   Uses Jaro-Winkler and Jaccard algorithms to assign similarly spelled names to unique participant identification numbers ("social_netid")
 -   Generates dynamic network visualizations as new name data is added and unique individuals are assigned to nodes
 
