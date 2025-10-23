@@ -6,29 +6,17 @@ title: "Lev Kolinski"
 
 #### Predicting zoonotic disease exposure with network modeling
 
-::: columns
-::: {.column width="50%"}
-![](media/human_animal_networks_schematic.png){.zoomable fig-align="center" width="100%"}
-:::
-
-::: {.column width="50%" style="padding-left: 1em;"}
 Direct and indirect contact between humans and animals remain the most fundamental and modifiable drivers of cross-species pathogen transmission. Remarkably, though, we lack an understanding of what predicts these zoonotic interactions, particularly in rural contexts at the frontline of many zoonoses. We use graph modeling with network simulations to identify the drivers of human-animal contact and zoonotic interactions in rural Madagascar. This research allows us to use demographic traits to guide public health education interventions in resource-limited settings.
 
+![](media/human_animal_networks_schematic.png){.zoomable fig-align="center" width="100%"}
+
 <small>Co-led with <a href="https://www.linkedin.com/in/camille-desisto-8966a8122" target="_blank">Dr. Camille DeSisto</a></small>
-:::
-:::
 
 #### Disentangling energetic and immunoregulatory pathways of hookworm infection and cardiovascular disease risk
 
-::: columns
-::: {.column width="50%"}
 Hookworms infect over half a billion people around the world. In resource-limited contexts, hookworm infection can be energetically draining; it may also regulate inflammation and cardiovascular disease risk. In this project, I use structural equation modeling to investigate the energetic and immunoregulatory pathways by which different hookworm species influence nutrition status and blood pressure to produce different health outcomes.
-:::
 
-::: {.column width="50%"}
 ![](media/continuous_systolic_sem_plot_400dpi_no_village.png){.zoomable fig-align="center" width="100%"}
-:::
-:::
 
 #### Investigating the adaptive value of disgust and pathogen avoidance behaviors
 
