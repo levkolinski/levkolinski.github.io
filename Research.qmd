@@ -8,7 +8,7 @@ title: "Lev Kolinski"
 
 ::: columns
 ::: {.column width="50%"}
-![](Media/human_animal_networks_schematic.png){.zoomable fig-align="center" width="100%"}
+![](media/human_animal_networks_schematic.png){.zoomable fig-align="center" width="100%"}
 :::
 
 ::: {.column width="50%" style="padding-left: 1em;"}
@@ -26,7 +26,7 @@ Hookworms infect over half a billion people around the world. In resource-limite
 :::
 
 ::: {.column width="50%"}
-![](Media/continuous_systolic_sem_plot_400dpi_no_village.png){.zoomable fig-align="center" width="100%"}
+![](media/continuous_systolic_sem_plot_400dpi_no_village.png){.zoomable fig-align="center" width="100%"}
 :::
 :::
 

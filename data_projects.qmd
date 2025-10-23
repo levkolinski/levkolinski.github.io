@@ -1,7 +1,9 @@
 ---
 title: "Lev Kolinski"
 ---
+
 ## Professional Experience
+
 My expertise is collaborative data science for international biological and human health research. I have led data curation and coding projects in my roles:
 
 [**at the University of Michigan**](https://sites.lsa.umich.edu/capuchin/)
@@ -34,11 +36,11 @@ To foster collaborative data science with diverse teams including members withou
 
 ::: columns
 ::: {.column width="50%"}
-![](Media/dashboard_validation.png){.zoomable fig-align="center" width="100%"}
+![](media/dashboard_validation.png){.zoomable fig-align="center" width="100%"}
 :::
 
 ::: {.column width="50%"}
-![](Media/dashboard_blood_pressure.png){.zoomable fig-align="center" width="100%"}
+![](media/dashboard_blood_pressure.png){.zoomable fig-align="center" width="100%"}
 :::
 :::
 
@@ -52,12 +54,13 @@ To facilitate team coding projects for scientists of varying comfort levels with
 
 ::: columns
 ::: {.column width="50%"}
-![](Media/github_project_tracker_1.png){.zoomable fig-align="center" width="100%"}
-::: 
+![](media/github_project_tracker_1.png){.zoomable fig-align="center" width="100%"}
+:::
+
 ::: {.column width="50%"}
-![](Media/github_project_tracker_2.png){.zoomable fig-align="center" width="100%"}
-::: 
-::: 
+![](media/github_project_tracker_2.png){.zoomable fig-align="center" width="100%"}
+:::
+:::
 
 #### Naming Network Automation
 
@@ -69,11 +72,10 @@ In social network analysis, researchers commonly deploy name-generating question
 
 ::: columns
 ::: {.column width="50%"}
-![](Media/jaro_winkler.png){.zoomable fig-align="center" width="100%"}
-::: 
+![](media/jaro_winkler.png){.zoomable fig-align="center" width="100%"}
+:::
+
 ::: {.column width="50%"}
-![](Media/network_vis.jpeg){.zoomable fig-align="center" width="100%"}
-::: 
-::: 
-
-
+![](media/network_vis.jpeg){.zoomable fig-align="center" width="100%"}
+:::
+:::
