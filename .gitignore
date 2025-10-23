@@ -4,3 +4,16 @@
 .Ruserdata
 
 /.quarto/
+# Quarto generated site
+_site/
+
+# macOS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Others
+*.log
+
