@@ -2,7 +2,7 @@
 title: "Lev Kolinski"
 ---
 
-## Recent Projects
+## Recent projects
 
 #### Predicting zoonotic disease exposure with network modeling
 
@@ -34,9 +34,9 @@ Hookworms infect over half a billion people around the world. In resource-limite
 
 Disgust is hypothesized to be an evolved behavior to regulate avoidance of dangerous stimuli, especially pathogens. Yet, there is limited direct evidence that disgust actually improves fitness by promoting health behaviors that reduce exposures to parasites. I leverage Bayesian approaches with survey and laboratory data to model how disgust impacts viral exposures and immune activation.
 
-## Peer-Reviewed Publications
+## Peer-reviewed publications
 
-#### In Review
+#### In review
 
 **Kolinski, L.**, DeSisto, C.M.M.,Kauffman, K.M., Titcomb, G., Pender, M., Rabezara, J.Y., Kramer, R.A., Moody, J.W., Soarimalala, V., and Nunn, C.L. "Predictors of human-animal contact networks in northeast Madagascar".
 
