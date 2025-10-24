@@ -13,7 +13,7 @@ My expertise is collaborative data science for international biological and huma
 
 [**at EcoHealth Alliance**](https://www.ecohealthalliance.org/program/whats-the-fever)
 
--   I worked as a researcher and project manager for a U.S. Department of Defense, "Reducing the threat of acute-febrile illness causing pathogens in Liberia"
+-   I worked as a researcher and project manager for a U.S. Department of Defense initiative, "Reducing the threat of acute-febrile illness causing pathogens in Liberia"
 -   Oversaw human and animal biological research across Liberia
 -   Established automated data management systems to validate and curate survey and laboratory datasets
 -   Trained Liberian researchers on data visualization
