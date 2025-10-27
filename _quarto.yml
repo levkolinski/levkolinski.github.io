@@ -12,6 +12,8 @@ website:
         href: Research.qmd
       - text: "Data Science"
         href: data_projects.qmd
+      - text: "CV"
+        href: CV.qmd
 
 about:
   template: trestles
