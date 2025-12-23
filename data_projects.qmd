@@ -18,7 +18,6 @@ My expertise is collaborative data science for international biological and huma
 -   Established automated data management systems to validate and curate survey and laboratory datasets
 -   Trained Liberian researchers on data visualization
 
-
 [**at the University of Michigan**](https://sites.lsa.umich.edu/capuchin/)
 
 -   I oversaw wild primate endocrinology research in Costa Rica (I speak Spanish!)
@@ -37,7 +36,7 @@ To foster collaborative data science with diverse teams including members withou
 
 Here is an example dashboard I built using synthetic data for a human biology project: [Synthetic Data Dashboard](dashboards/synthetic_data_dashboard.html){target="_blank"}
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](media/dashboard_validation.png){.zoomable fig-align="center" width="100%"}
 :::
@@ -45,7 +44,7 @@ Here is an example dashboard I built using synthetic data for a human biology pr
 ::: {.column width="50%"}
 ![](media/dashboard_blood_pressure.png){.zoomable fig-align="center" width="100%"}
 :::
-:::
+:::::
 
 #### Project tracking in GitHub
 
@@ -55,7 +54,7 @@ To facilitate team coding projects for scientists of varying comfort levels with
 -   Assign other members to tasks related to specific projects
 -   Easily access GitHub repositories for relevant projects
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](media/github_project_tracker_1.png){.zoomable fig-align="center" width="100%"}
 :::
@@ -63,7 +62,7 @@ To facilitate team coding projects for scientists of varying comfort levels with
 ::: {.column width="50%"}
 ![](media/github_project_tracker_2.png){.zoomable fig-align="center" width="100%"}
 :::
-:::
+:::::
 
 #### Naming network automation
 
@@ -73,7 +72,7 @@ In social network analysis, researchers commonly deploy name-generating question
 -   Uses Jaro-Winkler and Jaccard algorithms to assign similarly spelled names to unique participant identification numbers ("social_netid")
 -   Generates dynamic network visualizations as new name data is added and unique individuals are assigned to nodes
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](media/jaro_winkler.png){.zoomable fig-align="center" width="100%"}
 :::
@@ -81,4 +80,4 @@ In social network analysis, researchers commonly deploy name-generating question
 ::: {.column width="50%"}
 ![](media/network_vis.jpeg){.zoomable fig-align="center" width="100%"}
 :::
-:::
+:::::
