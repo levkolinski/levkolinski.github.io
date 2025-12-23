@@ -35,6 +35,8 @@ To foster collaborative data science with diverse teams including members withou
 -   Catch and revise data validation errors in real-time with automated queries
 -   Access descriptive statistics and visualizations
 
+Here is an example dashboard I built using synthetic data for a human biology project: [Synthetic Data Dashboard](dashboards/synthetic_data_dashboard.html){target="_blank"}
+
 ::: columns
 ::: {.column width="50%"}
 ![](media/dashboard_validation.png){.zoomable fig-align="center" width="100%"}
