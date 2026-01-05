@@ -10,6 +10,7 @@ My expertise is collaborative data science for international biological and huma
 
 -   I am the data scientist for a National Science Foundation Ecology and Evolution of Infectious Diseases grant, "Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar"
 -   Oversee coding projects, data and code curation, and project management for researchers across the United States, Singapore, Réunion, and Madagascar
+-   Co-Authored R package, [pecahnurbancity](https://github.com/tmbarrett2/pecahn-urbanicity?tab=readme-ov-file), which integrates multiple open-access datasets, including OpenStreetMap (OSM) infrastructure data, raster-based friction surfaces, population density grids, and nighttime light imagery, to compute and visualize urbanicity metrics for anthropological field sites
 
 [**at EcoHealth Alliance**](https://www.ecohealthalliance.org/program/whats-the-fever)
 
